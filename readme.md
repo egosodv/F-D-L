@@ -1,4 +1,4 @@
-> [!WARNING]
+> [!WARNING] 
 > 由于出现很多复制下载此存储库后又重新上传发布冒充的情况
 > 
 > 源项目所属 【FGODailyBonus -> FGO-Daily-Login -> F-D-L】
